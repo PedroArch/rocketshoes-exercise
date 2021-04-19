@@ -28,7 +28,7 @@ or if you prefer yarn commands
 
 1. Just run in your terminal
 ```yarn serve ```
-2. In other terminal tab
+2. In another terminal tab
 ```yarn start ```
 
 
